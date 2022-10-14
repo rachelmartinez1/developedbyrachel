@@ -3,12 +3,7 @@
     <!-- Start leftpart -->
     <div class="leftpart">
       <div class="leftpart_inner">
-        <div class="logo">
-          <router-link to="/"
-            ><img src="../assets/img/logo/dark.png" alt=""
-          /></router-link>
-        </div>
-        <!-- End .logo -->
+        
         <div class="menu">
           <a
             v-on:click="activetab = 1"
@@ -58,19 +53,7 @@
           >
           <!-- End Contact -->
         </div>
-        <div class="copyright">
-          <p>
-            &copy; {{ new Date().getFullYear() }} Tokyo VueJS<br />Created by
-            <a
-              href="https://themeforest.net/user/ib-themes"
-              target="_blank"
-              rel="noreferrer"
-            >
-              Ib-Themes
-            </a>
-          </p>
-        </div>
-        <!-- End copyright -->
+      
       </div>
     </div>
     <!-- End leftpart -->

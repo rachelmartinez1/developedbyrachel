@@ -6,13 +6,11 @@
     <!-- End .about_image -->
 
     <div class="description">
-      <h3 class="name">Rachel Martinez &amp; Software Developer</h3>
+      <h3 class="name">Rachel Martinez</h3>
       <div class="description_inner">
         <div class="left">
           <p>
-            Hello, I am a creative photographer based in New York and happy to
-            travel all over Europe to capture your big day in candid and
-            authentic photos. I will create a lasting memory of the people.
+
           </p>
           <div class="tokyo_tm_button">
             <button class="ib-button" @click="showModal">Read More</button>
@@ -22,12 +20,6 @@
 
         <div class="right">
           <ul>
-            <li>
-              <p><span>Birthday:</span>04.20.1996</p>
-            </li>
-            <li>
-              <p><span>Age:</span>26</p>
-            </li>
             <li>
               <p><span>Address:</span>Greater Salt Lake Area</p>
             </li>

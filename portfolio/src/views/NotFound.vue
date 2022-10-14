@@ -7,17 +7,6 @@
             ><img src="../assets/img/logo/dark.png" alt="brand"
           /></router-link>
         </div>
-        <div class="copyright">
-          <p>
-            &copy; {{ new Date().getFullYear() }} Tokyo <br />
-            Created by<a
-              href="https://themeforest.net/user/ib-themes"
-              target="_blank"
-              rel="noreferrer"
-              >Ib-Themes</a
-            >
-          </p>
-        </div>
       </div>
     </div>
     <!-- End .leftpart -->
@@ -40,16 +29,7 @@
     </div>
     <!-- End .rightpart -->
     <footer class="footer-wrapper">
-      <div class="copyright">
-        <p>
-          © 2021 Tokyo Created by<a
-            href="https://themeforest.net/user/ib-themes"
-            target="_blank"
-            rel="noreferrer"
-            >Ib-Themes</a
-          >
-        </p>
-      </div>
+      
     </footer>
     <!-- End .footer-wrapper -->
   </div>

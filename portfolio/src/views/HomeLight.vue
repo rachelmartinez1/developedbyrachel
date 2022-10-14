@@ -58,19 +58,7 @@
           >
           <!-- End Contact -->
         </div>
-        <div class="copyright">
-          <p>
-            &copy; {{ new Date().getFullYear() }} Tokyo VueJS<br />Created by
-            <a
-              href="https://themeforest.net/user/ib-themes"
-              target="_blank"
-              rel="noreferrer"
-            >
-              Ib-Themes
-            </a>
-          </p>
-        </div>
-        <!-- End copyright -->
+        
       </div>
     </div>
     <!-- End leftpart -->

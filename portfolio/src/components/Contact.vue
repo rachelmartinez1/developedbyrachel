@@ -20,6 +20,16 @@
         marginwidth="0"
       ></iframe>
     </div>
+
+    <!-- TODO: Need API Key -->
+    <iframe 
+      id="gmap_canvas" 
+        src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJ7THRiJQ9UocRyjFNSKC3U1s&key=..."
+        frameborder="0"
+        scrolling="no"
+        marginheight="0"
+        marginwidth="0">
+    </iframe>
     <!-- End Google Map -->
 
     <div class="fields">
