@@ -3,36 +3,36 @@
     <div class="tokyo_tm_title">
       <div class="title_flex">
         <div class="left">
-          <span>News</span>
-          <h3>Latest News</h3>
+          <span>Favorites</span>
+          <h3>Latest Favorites</h3>
         </div>
       </div>
     </div>
+
+  <div style="margin:auto;">
+    <iframe width="880" height="415" src="https://www.youtube.com/embed/2V910s3TJt0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+
     <ul class="tokyo_tm_news_inner">
       <li>
         <div class="list_inner">
-          <div class="image">
-            <img src="../assets/img/thumbs/4-3.jpg" alt="thumb" />
-            <div
-              class="main"
-              :style="{ backgroundImage: 'url(' + popup1 + ')' }"
-              @click="showModal"
-            ></div>
+          <div>
+            <iframe src="https://www.omfgdogs.com/" name="myIFrame" width="500px" height="310px" style="border: solid #000000;"></iframe>
           </div>
           <!-- End .image -->
           <div class="details">
             <div class="extra">
               <p class="date">
-                By <a href="#">Alex Watson</a><span>05 April 2021</span>
+                By <a href="#">OMFGDogs! </a><span> 25 October 2022</span>
               </p>
             </div>
             <!-- End meta info -->
             <h3 class="title" @click="showModal">
-              Format releases a new tool that enables direct video hosting
+              The only way to cheer up when I miss my pup.
             </h3>
-            <div class="tokyo_tm_read_more" @click="showModal">
+            <!-- <div class="tokyo_tm_read_more" @click="showModal">
               <a><span>Read More</span></a>
-            </div>
+            </div> -->
           </div>
           <!-- End .details -->
         </div>
@@ -170,12 +170,12 @@
           <div class="details">
             <div class="extra">
               <p class="date">
-                By <a href="#">Brook Kennedy</a><span>22 March 2021</span>
+                By <a href="#">Name </a><span> Date</span>
               </p>
             </div>
             <!-- End meta info -->
             <h3 class="title" @click="showModal2">
-              Sony announced two new full frame cameras with zero fanfare
+              XXX
             </h3>
             <div class="tokyo_tm_read_more" @click="showModal2">
               <a><span>Read More</span></a>
@@ -317,11 +317,11 @@
           <div class="details">
             <div class="extra">
               <p class="date">
-                By <a href="#">Paola Atkins</a><span>15 Feb 2021</span>
+                By <a href="#">Name </a><span> Date</span>
               </p>
             </div>
             <h3 class="title" @click="showModal3">
-              Why every photographer should shoot film, even in 2021
+              OOO
             </h3>
             <div class="tokyo_tm_read_more" @click="showModal3">
               <a><span>Read More</span></a>
@@ -364,11 +364,11 @@
                   <div class="details">
                     <div class="extra">
                       <p class="date">
-                        By <a href="#">Paola Atkins</a><span>15 Feb 2021</span>
+                        By <a href="#">Name </a><span> Date</span>
                       </p>
                     </div>
                     <h3 class="title">
-                      Why every photographer should shoot film, even in 2021
+                      XXX
                     </h3>
                   </div>
                   <!-- END DETAILS -->
@@ -454,17 +454,17 @@
             <img src="../assets/img/thumbs/4-3.jpg" alt="thumb" />
             <div
               class="main"
-              :style="{ backgroundImage: 'url(' + src4 + ')' }"
+              :style="{ backgroundImage: 'url(' + src3 + ')' }"
             ></div>
           </div>
           <div class="details">
             <div class="extra">
               <p class="date">
-                By <a href="#">Kevin Stone</a><span>22 Jan 2021</span>
+                By <a href="#">Name </a><span> Date</span>
               </p>
             </div>
             <h3 class="title" @click="showModal4">
-              Stay creative in lockdown with these fun photo projects
+              XXX
             </h3>
             <div class="tokyo_tm_read_more" @click="showModal4">
               <a><span>Read More</span></a>
@@ -656,5 +656,7 @@ export default {
   },
 };
 </script>
-
+  body {
+    background: black;
+  }
 <style lang="scss" scoped></style>

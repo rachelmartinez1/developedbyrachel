@@ -14,25 +14,33 @@
     data() {
       return {
         socialList: [
+          // {
+          //   link: "https://www.instagram.com/",
+          //   src: require("../assets/img/svg/social/instagram.svg"),
+          // },
+          // {
+          //   link: "https://twitter.com/",
+          //   src: require("../assets/img/svg/social/twitter.svg"),
+          // },
+          // {
+          //   link: "https://dribbble.com/",
+          //   src: require("../assets/img/svg/social/dribbble.svg"),
+          // },
+          // {
+          //   link: "https://www.tiktok.com/",
+          //   src: require("../assets/img/svg/social/tik-tok.svg"),
+          // },
           {
-            link: "https://www.facebook.com/",
-            src: require("../assets/img/svg/social/facebook.svg"),
+            link: "https://github.com/rachelmartinez1",
+            src: require("../assets/img/svg/social/icons8-github.svg")
           },
           {
-            link: "https://www.instagram.com/",
-            src: require("../assets/img/svg/social/instagram.svg"),
+            link: "https://www.linkedin.com/in/rachel-martinez-4a556815b/",
+            src: require("../assets/img/svg/social/icons8-linkedin-2.svg")
           },
           {
-            link: "https://twitter.com/",
-            src: require("../assets/img/svg/social/twitter.svg"),
-          },
-          {
-            link: "https://dribbble.com/",
-            src: require("../assets/img/svg/social/dribbble.svg"),
-          },
-          {
-            link: "https://www.tiktok.com/",
-            src: require("../assets/img/svg/social/tik-tok.svg"),
+            link: "https://www.facebook.com/rachelmxrtinez",
+            src: require("../assets/img/svg/social/icons8-facebook-1.svg"),
           },
         ],
       };

@@ -30,12 +30,6 @@
               </p>
             </li>
             <li>
-              <p>
-                <span>Phone:</span
-                ><a href="tel:+770221770505">385-238-9425</a>
-              </p>
-            </li>
-            <li>
               <p><span>Study:</span>Weber State University</p>
             </li>
             <li>
