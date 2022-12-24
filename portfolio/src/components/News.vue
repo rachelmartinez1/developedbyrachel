@@ -28,7 +28,7 @@
             </div>
             <!-- End meta info -->
             <h3 class="title" @click="showModal">
-              The only way to cheer up when I miss my pup.
+              A quick cheer up when missing my pup at home
             </h3>
             <!-- <div class="tokyo_tm_read_more" @click="showModal">
               <a><span>Read More</span></a>
@@ -71,40 +71,25 @@
                   <div class="details">
                     <div class="extra">
                       <p class="date">
-                        By <a href="#">Alex Watson</a>
+                        By <a href="#">XYZ</a>
                         <span>05 April 2021</span>
                       </p>
                     </div>
                     <h3 class="title">
-                      Format releases a new tool that enables direct video
-                      hosting
+                      Title
                     </h3>
                   </div>
                   <!-- END DETAILS -->
                   <div class="main_content ">
                     <div class="descriptions">
                       <p class="bigger">
-                        Just because we can't get out and about like we normally
-                        would, doesn’t mean we have to stop taking pictures.
-                        There’s still plenty you can do, provided you're
-                        prepared to use some imagination. Here are a few ideas
-                        to keep you shooting until normal life resumes.
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                       </p>
                       <p>
-                        Most photographers love to shoot the unusual, and you
-                        don’t get much more unusual than These Unprecedented
-                        Times. Right now everything counts as out of the
-                        ordinary. There are a number of remarkable things about
-                        these lockdown days that are worth photographing now so
-                        we can remember them when it is all over.
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                       </p>
                       <p>
-                        Streets empty that are usually busy are remarkable and
-                        can evoke the sense of historical pictures from before
-                        the invention of the motorcar. Other things that are
-                        different at the moment will be queues to get into
-                        stores and the lines marked out on the floor to show how
-                        far apart we should be.
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                       </p>
                       <div class="quotebox">
                         <div class="icon">
@@ -115,28 +100,15 @@
                           />
                         </div>
                         <p>
-                          Most photographers find it hard to see interesting
-                          pictures in places in which they are most familiar. A
-                          trip somewhere new seems always exactly what our
-                          photography needed, as shooting away from home
-                          consistently inspires us to new artistic heights.
+                          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                         </p>
                       </div>
                       <!-- END QUOTEBOX -->
                       <p>
-                        Pretend everything is new and that you haven’t seen it
-                        before, and then you will be free to notice the leading
-                        lines, the places where one edge meets another in
-                        delightful geometric harmony, and how the ordinary
-                        things in the kitchen are transformed when the light is
-                        on or off.
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                       </p>
                       <p>
-                        The trick here is to look slowly, and then look again.
-                        Take the time to look in detail and to look at the same
-                        thing from different angles, with different light, long
-                        lenses and wide lenses. Then move to the left a bit. You
-                        may never feel the need to leave the house again.
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                       </p>
                     </div>
                     <!-- END DESCRIPTION -->
@@ -218,40 +190,25 @@
                   <div class="details">
                     <div class="extra">
                       <p class="date">
-                        By <a href="#">Brook Kennedy</a
+                        By <a href="#">XYZ</a
                         ><span>22 March 2021</span>
                       </p>
                     </div>
                     <h3 class="title">
-                      Sony announced two new full frame cameras with zero
-                      fanfare
+                      Title
                     </h3>
                   </div>
                   <!-- END DETAILS -->
                   <div class="main_content ">
                     <div class="descriptions">
                       <p class="bigger">
-                        Just because we can't get out and about like we normally
-                        would, doesn’t mean we have to stop taking pictures.
-                        There’s still plenty you can do, provided you're
-                        prepared to use some imagination. Here are a few ideas
-                        to keep you shooting until normal life resumes.
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                       </p>
                       <p>
-                        Most photographers love to shoot the unusual, and you
-                        don’t get much more unusual than These Unprecedented
-                        Times. Right now everything counts as out of the
-                        ordinary. There are a number of remarkable things about
-                        these lockdown days that are worth photographing now so
-                        we can remember them when it is all over.
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                       </p>
                       <p>
-                        Streets empty that are usually busy are remarkable and
-                        can evoke the sense of historical pictures from before
-                        the invention of the motorcar. Other things that are
-                        different at the moment will be queues to get into
-                        stores and the lines marked out on the floor to show how
-                        far apart we should be.
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                       </p>
                       <div class="quotebox">
                         <div class="icon">
@@ -262,28 +219,15 @@
                           />
                         </div>
                         <p>
-                          Most photographers find it hard to see interesting
-                          pictures in places in which they are most familiar. A
-                          trip somewhere new seems always exactly what our
-                          photography needed, as shooting away from home
-                          consistently inspires us to new artistic heights.
+                          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                         </p>
                       </div>
                       <!-- END QUOTEBOX -->
                       <p>
-                        Pretend everything is new and that you haven’t seen it
-                        before, and then you will be free to notice the leading
-                        lines, the places where one edge meets another in
-                        delightful geometric harmony, and how the ordinary
-                        things in the kitchen are transformed when the light is
-                        on or off.
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                       </p>
                       <p>
-                        The trick here is to look slowly, and then look again.
-                        Take the time to look in detail and to look at the same
-                        thing from different angles, with different light, long
-                        lenses and wide lenses. Then move to the left a bit. You
-                        may never feel the need to leave the house again.
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                       </p>
                     </div>
                     <!-- END DESCRIPTION -->
@@ -375,27 +319,13 @@
                   <div class="main_content ">
                     <div class="descriptions">
                       <p class="bigger">
-                        Just because we can't get out and about like we normally
-                        would, doesn’t mean we have to stop taking pictures.
-                        There’s still plenty you can do, provided you're
-                        prepared to use some imagination. Here are a few ideas
-                        to keep you shooting until normal life resumes.
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                       </p>
                       <p>
-                        Most photographers love to shoot the unusual, and you
-                        don’t get much more unusual than These Unprecedented
-                        Times. Right now everything counts as out of the
-                        ordinary. There are a number of remarkable things about
-                        these lockdown days that are worth photographing now so
-                        we can remember them when it is all over.
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                       </p>
                       <p>
-                        Streets empty that are usually busy are remarkable and
-                        can evoke the sense of historical pictures from before
-                        the invention of the motorcar. Other things that are
-                        different at the moment will be queues to get into
-                        stores and the lines marked out on the floor to show how
-                        far apart we should be.
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                       </p>
                       <div class="quotebox">
                         <div class="icon">
@@ -406,28 +336,15 @@
                           />
                         </div>
                         <p>
-                          Most photographers find it hard to see interesting
-                          pictures in places in which they are most familiar. A
-                          trip somewhere new seems always exactly what our
-                          photography needed, as shooting away from home
-                          consistently inspires us to new artistic heights.
+                          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                         </p>
                       </div>
                       <!-- END QUOTEBOX -->
                       <p>
-                        Pretend everything is new and that you haven’t seen it
-                        before, and then you will be free to notice the leading
-                        lines, the places where one edge meets another in
-                        delightful geometric harmony, and how the ordinary
-                        things in the kitchen are transformed when the light is
-                        on or off.
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                       </p>
                       <p>
-                        The trick here is to look slowly, and then look again.
-                        Take the time to look in detail and to look at the same
-                        thing from different angles, with different light, long
-                        lenses and wide lenses. Then move to the left a bit. You
-                        may never feel the need to leave the house again.
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                       </p>
                     </div>
                     <!-- END DESCRIPTION -->
@@ -506,38 +423,24 @@
                   <div class="details">
                     <div class="extra">
                       <p class="date">
-                        By <a href="#">Kevin Stone</a><span>22 Jan 2021</span>
+                        By <a href="#">XYZ</a><span>22 Jan 2021</span>
                       </p>
                     </div>
                     <h3 class="title">
-                      Stay creative in lockdown with these fun photo projects
+                      Title
                     </h3>
                   </div>
                   <!-- END DETAILS -->
                   <div class="main_content ">
                     <div class="descriptions">
                       <p class="bigger">
-                        Just because we can't get out and about like we normally
-                        would, doesn’t mean we have to stop taking pictures.
-                        There’s still plenty you can do, provided you're
-                        prepared to use some imagination. Here are a few ideas
-                        to keep you shooting until normal life resumes.
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                       </p>
                       <p>
-                        Most photographers love to shoot the unusual, and you
-                        don’t get much more unusual than These Unprecedented
-                        Times. Right now everything counts as out of the
-                        ordinary. There are a number of remarkable things about
-                        these lockdown days that are worth photographing now so
-                        we can remember them when it is all over.
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                       </p>
                       <p>
-                        Streets empty that are usually busy are remarkable and
-                        can evoke the sense of historical pictures from before
-                        the invention of the motorcar. Other things that are
-                        different at the moment will be queues to get into
-                        stores and the lines marked out on the floor to show how
-                        far apart we should be.
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                       </p>
                       <div class="quotebox">
                         <div class="icon">
@@ -548,28 +451,15 @@
                           />
                         </div>
                         <p>
-                          Most photographers find it hard to see interesting
-                          pictures in places in which they are most familiar. A
-                          trip somewhere new seems always exactly what our
-                          photography needed, as shooting away from home
-                          consistently inspires us to new artistic heights.
+                          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                         </p>
                       </div>
                       <!-- END QUOTEBOX -->
                       <p>
-                        Pretend everything is new and that you haven’t seen it
-                        before, and then you will be free to notice the leading
-                        lines, the places where one edge meets another in
-                        delightful geometric harmony, and how the ordinary
-                        things in the kitchen are transformed when the light is
-                        on or off.
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                       </p>
                       <p>
-                        The trick here is to look slowly, and then look again.
-                        Take the time to look in detail and to look at the same
-                        thing from different angles, with different light, long
-                        lenses and wide lenses. Then move to the left a bit. You
-                        may never feel the need to leave the house again.
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                       </p>
                     </div>
                     <!-- END DESCRIPTION -->
