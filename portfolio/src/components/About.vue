@@ -68,14 +68,14 @@
               <div class="my_box">
                 <div class="left">
                   <div class="about_title">
-                    <h3>Photography Skills</h3>
+                    <h3>Technical Skills</h3>
                   </div>
                   <!-- End .abut_title -->
                   <div class="tokyo_progress">
                     <div class="progress_inner">
                       <span
-                        ><span class="label">Wedding Photography</span
-                        ><span class="number">95%</span></span
+                        ><span class="label">MySQL</span
+                        ><span class="number">80%</span></span
                       >
                       <div class="background">
                         <div class="bar">
@@ -86,8 +86,8 @@
                     <!-- End progress_inner -->
                     <div class="progress_inner">
                       <span
-                        ><span class="label">Lifestyle Photography</span
-                        ><span class="number">80%</span></span
+                        ><span class="label">Python</span
+                        ><span class="number">70%</span></span
                       >
                       <div class="background">
                         <div class="bar">
@@ -98,8 +98,8 @@
                     <!-- End progress_inner -->
                     <div class="progress_inner">
                       <span
-                        ><span class="label">Family Photography</span
-                        ><span class="number">90%</span></span
+                        ><span class="label">JavaScript</span
+                        ><span class="number">75%</span></span
                       >
                       <div class="background">
                         <div class="bar">
@@ -114,13 +114,13 @@
                 <!-- End .left -->
                 <div class="right">
                   <div class="about_title">
-                    <h3>Language Skills</h3>
+                    <h3>Non-Technical Skills</h3>
                   </div>
                   <div class="tokyo_progress">
                     <div class="progress_inner">
                       <span
-                        ><span class="label">English</span
-                        ><span class="number">95%</span></span
+                        ><span class="label">Social (Teamwork, Leadership, Communication)</span
+                        ><span class="number">85%</span></span
                       >
                       <div class="background">
                         <div class="bar">
@@ -130,7 +130,7 @@
                     </div>
                     <div class="progress_inner">
                       <span
-                        ><span class="label">Japanese</span
+                        ><span class="label">Personal Management</span
                         ><span class="number">90%</span></span
                       >
                       <div class="background">
@@ -141,7 +141,7 @@
                     </div>
                     <div class="progress_inner">
                       <span
-                        ><span class="label">Arabian</span
+                        ><span class="label">Cognitive (Decision-making, Cognitive Readiness, Task Management)</span
                         ><span class="number">85%</span></span
                       >
                       <div class="background">
@@ -154,40 +154,6 @@
                 </div>
                 <!-- End .right -->
               </div>
-              <div class="counter">
-                <div class="about_title">
-                  <h3>Fun Facts</h3>
-                </div>
-                <ul>
-                  <li>
-                    <div class="list_inner">
-                      <h3>777+</h3>
-                      <span>Projects Completed</span>
-                    </div>
-                  </li>
-                  <li>
-                    <div class="list_inner">
-                      <h3>3K</h3>
-                      <span>Happy Clients</span>
-                    </div>
-                  </li>
-                  <li>
-                    <div class="list_inner">
-                      <h3>9K+</h3>
-                      <span>Lines of Code</span>
-                    </div>
-                  </li>
-                </ul>
-                <!-- End ul -->
-              </div>
-              <!-- End .counter -->
-              <div class="partners">
-                <div class="about_title">
-                  <h3>Our Partners</h3>
-                </div>
-                <Brand />
-              </div>
-              <!-- End .partner -->
             </div>
             <!-- End .tokyo_tm_modalbox_about -->
           </div>
@@ -199,10 +165,9 @@
 </template>
 
 <script>
-import Brand from "./Brand";
 export default {
   components: {
-    Brand,
+    
   },
   data() {
     return {

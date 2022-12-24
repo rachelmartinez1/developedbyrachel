@@ -179,7 +179,7 @@
         activetab: 1,
         allItems: [
           {
-            src: "https://vimeo.com/43338103",
+            src: require("../assets/img/portfolio/5.jpg"),
             thumb: require("../assets/img/portfolio/5.jpg"),
           },
           {
@@ -187,7 +187,7 @@
             thumb: require("../assets/img/portfolio/2.jpg"),
           },
           {
-            src: "https://youtu.be/ZOoVOfieAF8",
+            src: require("../assets/img/portfolio/4.jpg"),
             thumb: require("../assets/img/portfolio/4.jpg"),
           },
           {
@@ -197,31 +197,31 @@
         ],
         vimeoItems: [
           {
-            src: "https://vimeo.com/246115326",
+            src: require("../assets/img/portfolio/4.jpg"),
             thumb: require("../assets/img/portfolio/4.jpg"),
           },
           {
-            src: "https://vimeo.com/43338103",
+            src: require("../assets/img/portfolio/5.jpg"),
             thumb: require("../assets/img/portfolio/5.jpg"),
           },
         ],
         youtubeItems: [
           {
-            src: "https://youtu.be/ZOoVOfieAF8",
+            src: require("../assets/img/portfolio/2.jpg"),
             thumb: require("../assets/img/portfolio/2.jpg"),
           },
           {
-            src: "https://youtu.be/ZOoVOfieAF8",
+            src: require("../assets/img/portfolio/3.jpg"),
             thumb: require("../assets/img/portfolio/3.jpg"),
           },
         ],
         mixItems: [
           {
-            src: "https://vimeo.com/43338103",
+            src: require("../assets/img/portfolio/5.jpg"),
             thumb: require("../assets/img/portfolio/5.jpg"),
           },
           {
-            src: "https://youtu.be/ZOoVOfieAF8",
+            src: require("../assets/img/portfolio/4.jpg"),
             thumb: require("../assets/img/portfolio/4.jpg"),
           },
           {
