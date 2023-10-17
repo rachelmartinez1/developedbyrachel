@@ -4,7 +4,7 @@
       <div class="title_flex">
         <div class="left">
           <span>Portfolio</span>
-          <h3>Creative Portfolio</h3>
+          <h3>Project Photos</h3>
         </div>
         <!-- End Left -->
         <div class="portfolio_filter">
@@ -25,13 +25,13 @@
               >
             </li>
             <!-- End Vimeo tabcontent 2 -->
-            <li>
+            <!-- <li>
               <a
                 v-on:click="activetab = 3"
                 :class="[activetab === 3 ? 'active' : '']"
                 >Youtube</a
               >
-            </li>
+            </li> -->
             <!-- End .Youtube tabcontent 3 -->
             <li>
               <a
@@ -58,6 +58,15 @@
 
     <div v-if="activetab === 1" class="tabcontent">
       <ul class="portfolio_list">
+        
+        <!-- start calculator -->
+        <li>
+          <div class="inner">
+            <Calculator></Calculator>
+          </div>
+        </li>
+        <!-- end calculator -->
+
         <CoolLightBox :items="allItems" :index="index" @close="index = null">
         </CoolLightBox>
         <li
@@ -77,7 +86,7 @@
     </div>
     <!-- End .tabcontent 1 -->
 
-    <div v-if="activetab === 2" class="tabcontent">
+    <div v-if="activetab === 2" class="tabcontent" aria-disabled="true">
       <ul class="portfolio_list">
         <CoolLightBox :items="vimeoItems" :index="index" @close="index = null">
         </CoolLightBox>
@@ -173,84 +182,57 @@
 </template>
 
 <script>
+import Calculator from './Calculator.vue';
+
   export default {
     data() {
-      return {
-        activetab: 1,
-        allItems: [
-          {
-            src: require("../assets/img/portfolio/5.jpg"),
-            thumb: require("../assets/img/portfolio/5.jpg"),
-          },
-          {
-            src: require("../assets/img/portfolio/2.jpg"),
-            thumb: require("../assets/img/portfolio/2.jpg"),
-          },
-          {
-            src: require("../assets/img/portfolio/4.jpg"),
-            thumb: require("../assets/img/portfolio/4.jpg"),
-          },
-          {
-            src: require("../assets/img/portfolio/3.jpg"),
-            thumb: require("../assets/img/portfolio/3.jpg"),
-          },
-        ],
-        vimeoItems: [
-          {
-            src: require("../assets/img/portfolio/4.jpg"),
-            thumb: require("../assets/img/portfolio/4.jpg"),
-          },
-          {
-            src: require("../assets/img/portfolio/5.jpg"),
-            thumb: require("../assets/img/portfolio/5.jpg"),
-          },
-        ],
-        youtubeItems: [
-          {
-            src: require("../assets/img/portfolio/2.jpg"),
-            thumb: require("../assets/img/portfolio/2.jpg"),
-          },
-          {
-            src: require("../assets/img/portfolio/3.jpg"),
-            thumb: require("../assets/img/portfolio/3.jpg"),
-          },
-        ],
-        mixItems: [
-          {
-            src: require("../assets/img/portfolio/5.jpg"),
-            thumb: require("../assets/img/portfolio/5.jpg"),
-          },
-          {
-            src: require("../assets/img/portfolio/4.jpg"),
-            thumb: require("../assets/img/portfolio/4.jpg"),
-          },
-          {
-            src: require("../assets/img/portfolio/3.jpg"),
-            thumb: require("../assets/img/portfolio/3.jpg"),
-          },
-        ],
-        galleryItems: [
-          {
-            src: require("../assets/img/portfolio/2.jpg"),
-            thumb: require("../assets/img/portfolio/2.jpg"),
-          },
-          {
-            src: require("../assets/img/portfolio/3.jpg"),
-            thumb: require("../assets/img/portfolio/3.jpg"),
-          },
-          {
-            src: require("../assets/img/portfolio/4.jpg"),
-            thumb: require("../assets/img/portfolio/4.jpg"),
-          },
-          {
-            src: require("../assets/img/portfolio/5.jpg"),
-            thumb: require("../assets/img/portfolio/5.jpg"),
-          },
-        ],
-        index: null,
-      };
+        return {
+            activetab: 1,
+            allItems: [
+                {
+                    src: require("../assets/img/portfolio/entertain-cat.jpg"),
+                    thumb: require("../assets/img/portfolio/entertain-cat.jpg"),
+                },
+                {
+                    src: require("../assets/img/portfolio/tile-cat.jpg"),
+                    thumb: require("../assets/img/portfolio/tile-cat.jpg"),
+                },
+                {
+                    src: require("../assets/img/portfolio/content-gallery-video-thumb.jpg"),
+                    thumb: require("../assets/img/portfolio/content-gallery-video-thumb.jpg"),
+                },
+                {
+                    src: require("../assets/img/portfolio/gallery-mobile.jpg"),
+                    thumb: require("../assets/img/portfolio/gallery-mobile.jpg"),
+                },
+                {
+                    src: require("../assets/img/portfolio/spurs-selfie-station-example.jpg"),
+                    thumb: require("../assets/img/portfolio/spurs-selfie-station-example.jpg"),
+                },
+            ],
+            vimeoItems: [
+                {
+                    src: require("../assets/img/portfolio/coming-soon.jpg"),
+                    thumb: require("../assets/img/portfolio/coming-soon.jpg"),
+                }
+            ],
+            mixItems: [
+                {
+                    src: require("../assets/img/portfolio/coming-soon.jpg"),
+                    thumb: require("../assets/img/portfolio/coming-soon.jpg"),
+                }
+            ],
+            galleryItems: [
+                {
+                    src: require("../assets/img/portfolio/coming-soon.jpg"),
+                    thumb: require("../assets/img/portfolio/coming-soon.jpg"),
+                }
+            ],
+            index: null,
+        };
     },
-  };
+    components: { Calculator }
+};
 </script>
 
 <style lang="scss" scoped></style>

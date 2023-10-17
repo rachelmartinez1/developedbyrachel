@@ -12,6 +12,7 @@
     "hooper": "^0.3.4",
     "sass": "^1.49.0",
     "sass-loader": "^10.1.1",
+    "url-loader": "^4.1.1",
     "vee-validate": "^3.4.7",
     "vue": "^2.6.11",
     "vue-cool-lightbox": "^2.7.4",

@@ -1,7 +1,7 @@
 <template>
   <div class="tokyo_tm_about">
     <div class="about_image">
-      <img src="../assets/img/slider/1.jpg" alt="about" />
+      <img src="../assets/img/slider/almafi-1.jpg" alt="about" />
     </div>
     <!-- End .about_image -->
 
@@ -13,7 +13,7 @@
 
           </p>
           <div class="tokyo_tm_button">
-            <button class="ib-button" @click="showModal">Read More</button>
+            <button class="ib-button" @click="showModal">My Stats</button>
           </div>
         </div>
         <!-- End .left -->
@@ -26,7 +26,7 @@
             <li>
               <p>
                 <span>Email:</span
-                ><a href="mailto:mail@gmail.com">rachelmartinez101@gmail.com</a>
+                ><a href="mailto:mail@gmail.com">RachelMartinez101@gmail.com</a>
               </p>
             </li>
             <li>

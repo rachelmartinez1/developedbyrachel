@@ -28,11 +28,11 @@
             </div>
             <!-- End meta info -->
             <h3 class="title" @click="showModal">
-              A quick cheer up when missing my pup at home
+              123 Puppies
             </h3>
-            <!-- <div class="tokyo_tm_read_more" @click="showModal">
+            <div class="tokyo_tm_read_more" @click="showModal">
               <a><span>Read More</span></a>
-            </div> -->
+            </div>
           </div>
           <!-- End .details -->
         </div>
@@ -61,55 +61,29 @@
                   </div>
                   <!-- END CLOSE ICON -->
                   <div class="image">
-                    <img src="../assets/img/thumbs/4-3.jpg" alt="tumb" />
-                    <div
-                      class="main"
-                      :style="{ backgroundImage: 'url(' + popup1 + ')' }"
-                    ></div>
+                    <iframe src="https://www.omfgdogs.com/" name="myIFrame" width="100%" height="310px" style="border: solid #000000;"></iframe>
                   </div>
                   <!-- END IMAGE-->
                   <div class="details">
                     <div class="extra">
                       <p class="date">
-                        By <a href="#">XYZ</a>
-                        <span>05 April 2021</span>
+                        By <a href="#">RM</a>
+                        <span>017 October 2023</span>
                       </p>
                     </div>
                     <h3 class="title">
-                      Title
+                      What's more fun than this
                     </h3>
                   </div>
                   <!-- END DETAILS -->
                   <div class="main_content ">
                     <div class="descriptions">
                       <p class="bigger">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-                      </p>
-                      <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-                      </p>
-                      <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-                      </p>
+                        When the computer gets hard to look at and the brain gets foggy it's crutial to find things that make ya 3% happier.</p>
                       <div class="quotebox">
-                        <div class="icon">
-                          <img
-                            class="svg"
-                            src="../assets/img/svg/quote.svg"
-                            alt="tumb"
-                          />
-                        </div>
-                        <p>
-                          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-                        </p>
+
                       </div>
                       <!-- END QUOTEBOX -->
-                      <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-                      </p>
-                      <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-                      </p>
                     </div>
                     <!-- END DESCRIPTION -->
                     <div class="news_share">
@@ -499,7 +473,7 @@ export default {
       src2: require("../assets/img/news/2.jpg"),
       src3: require("../assets/img/news/3.jpg"),
       src4: require("../assets/img/news/4.jpg"),
-      popup1: require("../assets/img/news/1.jpg"),
+      // popup1: require("../assets/img/news/1.jpg"),
       popup2: require("../assets/img/news/2.jpg"),
       popup3: require("../assets/img/news/3.jpg"),
       popup4: require("../assets/img/news/4.jpg"),
