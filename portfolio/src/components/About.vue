@@ -6,36 +6,37 @@
     <!-- End .about_image -->
 
     <div class="description">
-      <h3 class="name">Rachel Martinez</h3>
       <div class="description_inner">
         <div class="left">
+          <h3 class="name">Rachel Martinez</h3>
           <p>
-
+            I'm an experienced full-stack developer with a demonstrated history of working in the computer software industry. 
+            I'm skilled in Python, JavaScript, MySQL, and HTML/CSS and various web frameworks. 
+            I'm a strong engineering professional with a Bachelor of Science (B.S.) focused in Computer Science from Weber State University.
+            I work well with teams and have strong communication skills.
+            Let's talk.
           </p>
-          <div class="tokyo_tm_button">
-            <button class="ib-button" @click="showModal">My Stats</button>
-          </div>
         </div>
         <!-- End .left -->
 
         <div class="right">
           <ul>
             <li>
-              <p><span>Address:</span>Greater Salt Lake Area</p>
+              <p><span>Address</span>Greater Salt Lake Area</p>
             </li>
             <li>
               <p>
-                <span>Email:</span
+                <span>Email</span
                 ><a href="mailto:mail@gmail.com">RachelMartinez101@gmail.com</a>
               </p>
             </li>
             <li>
-              <p><span>Study:</span>Weber State University</p>
-            </li>
-            <li>
-              <p><span>Freelance:</span>Available</p>
+              <p><span>Study</span>Computer Science</p>
             </li>
           </ul>
+          <div class="tokyo_tm_button">
+            <button class="ib-button" @click="showModal">My Stats</button>
+          </div>
           <!-- End ul -->
         </div>
         <!-- End .right -->
@@ -79,7 +80,7 @@
                       >
                       <div class="background">
                         <div class="bar">
-                          <div class="bar_in" style="width:95%"></div>
+                          <div class="bar_in" style="width:80%"></div>
                         </div>
                       </div>
                     </div>
@@ -91,7 +92,7 @@
                       >
                       <div class="background">
                         <div class="bar">
-                          <div class="bar_in" style="width:80%"></div>
+                          <div class="bar_in" style="width:70%"></div>
                         </div>
                       </div>
                     </div>
@@ -103,7 +104,43 @@
                       >
                       <div class="background">
                         <div class="bar">
-                          <div class="bar_in" style="width:90%"></div>
+                          <div class="bar_in" style="width:75%"></div>
+                        </div>
+                      </div>
+                    </div>
+                    <!-- End progress_inner -->
+                    <div class="progress_inner">
+                      <span
+                        ><span class="label">VueJS</span
+                        ><span class="number">70%</span></span
+                      >
+                      <div class="background">
+                        <div class="bar">
+                          <div class="bar_in" style="width:70%"></div>
+                        </div>
+                      </div>
+                    </div>
+                    <!-- End progress_inner -->
+                    <div class="progress_inner">
+                      <span
+                        ><span class="label">AWS Cloud Computing</span
+                        ><span class="number">60%</span></span
+                      >
+                      <div class="background">
+                        <div class="bar">
+                          <div class="bar_in" style="width:60%"></div>
+                        </div>
+                      </div>
+                    </div>
+                    <!-- End progress_inner -->
+                    <div class="progress_inner">
+                      <span
+                        ><span class="label">Git</span
+                        ><span class="number">85%</span></span
+                      >
+                      <div class="background">
+                        <div class="bar">
+                          <div class="bar_in" style="width:85%"></div>
                         </div>
                       </div>
                     </div>
@@ -124,7 +161,7 @@
                       >
                       <div class="background">
                         <div class="bar">
-                          <div class="bar_in" style="width:95%"></div>
+                          <div class="bar_in" style="width:85%"></div>
                         </div>
                       </div>
                     </div>

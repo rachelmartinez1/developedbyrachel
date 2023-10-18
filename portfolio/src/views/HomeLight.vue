@@ -42,12 +42,12 @@
             <span class="menu_content">Portfolio</span></a
           >
           <!-- End Portfolio -->
-          <a
+          <!-- <a
             v-on:click="activetab = 4"
             :class="[activetab === 4 ? 'active' : '']"
             ><img class="svg" src="../assets/img/svg/paper.svg" alt="paper" />
             <span class="menu_content">For Fun</span></a
-          >
+          > -->
           <!-- End News -->
           <a
             v-on:click="activetab = 5"

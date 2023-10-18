@@ -4,7 +4,7 @@
       <div class="title_flex">
         <div class="left">
           <span>Portfolio</span>
-          <h3>Project Photos</h3>
+          <h3>Some Projects</h3>
         </div>
         <!-- End Left -->
         <div class="portfolio_filter">
@@ -58,7 +58,7 @@
 
     <div v-if="activetab === 1" class="tabcontent">
       <ul class="portfolio_list">
-        
+
         <!-- start calculator -->
         <li>
           <div class="inner">
@@ -81,6 +81,13 @@
           </div>
         </li>
         <!-- End li -->
+        <!-- start guessing game -->
+        <li>
+          <div class="inner">
+            <Guess></Guess>
+          </div>
+        </li>
+        <!-- end guessing game -->
       </ul>
       <!-- End .portfolio_list -->
     </div>
@@ -90,7 +97,10 @@
       <ul class="portfolio_list">
         <CoolLightBox :items="vimeoItems" :index="index" @close="index = null">
         </CoolLightBox>
-        <li
+        <div class="container">
+          <Type></Type>
+        </div>
+        <!-- <li
           v-for="(image, imageIndex) in vimeoItems"
           :key="imageIndex"
           @click="index = imageIndex"
@@ -100,7 +110,7 @@
               <img class="image" :src="image.thumb" alt="Portfolio" />
             </div>
           </div>
-        </li>
+        </li> -->
         <!-- End li -->
       </ul>
       <!-- End .portfolio_list -->
@@ -115,7 +125,10 @@
           @close="index = null"
         >
         </CoolLightBox>
-        <li
+        <div class="container">
+          <Type></Type>
+        </div>
+        <!-- <li
           v-for="(image, imageIndex) in youtubeItems"
           :key="imageIndex"
           @click="index = imageIndex"
@@ -125,7 +138,7 @@
               <img class="image" :src="image.thumb" alt="Portfolio" />
             </div>
           </div>
-        </li>
+        </li> -->
         <!-- End li -->
       </ul>
       <!-- End .portfolio_list -->
@@ -136,7 +149,10 @@
       <ul class="portfolio_list">
         <CoolLightBox :items="mixItems" :index="index" @close="index = null">
         </CoolLightBox>
-        <li
+        <div class="container">
+          <Type></Type>
+        </div>
+        <!-- <li
           v-for="(image, imageIndex) in mixItems"
           :key="imageIndex"
           @click="index = imageIndex"
@@ -146,7 +162,7 @@
               <img class="image" :src="image.thumb" alt="Portfolio" />
             </div>
           </div>
-        </li>
+        </li> -->
         <!-- End li -->
       </ul>
       <!-- End .portfolio_list -->
@@ -161,8 +177,10 @@
           @close="index = null"
         >
         </CoolLightBox>
-
-        <li
+        <div class="container">
+          <Type></Type>
+        </div>
+        <!-- <li
           v-for="(image, imageIndex) in galleryItems"
           :key="imageIndex"
           @click="index = imageIndex"
@@ -172,7 +190,7 @@
               <img class="image" :src="image.thumb" alt="Portfolio" />
             </div>
           </div>
-        </li>
+        </li> -->
         <!-- End li -->
       </ul>
       <!-- End .portfolio_list -->
@@ -183,6 +201,8 @@
 
 <script>
 import Calculator from './Calculator.vue';
+import Guess from './Guess.vue';
+import Type from './Type.vue';
 
   export default {
     data() {
@@ -198,12 +218,8 @@ import Calculator from './Calculator.vue';
                     thumb: require("../assets/img/portfolio/tile-cat.jpg"),
                 },
                 {
-                    src: require("../assets/img/portfolio/content-gallery-video-thumb.jpg"),
-                    thumb: require("../assets/img/portfolio/content-gallery-video-thumb.jpg"),
-                },
-                {
-                    src: require("../assets/img/portfolio/gallery-mobile.jpg"),
-                    thumb: require("../assets/img/portfolio/gallery-mobile.jpg"),
+                    src: require("../assets/img/portfolio/messages.jpg"),
+                    thumb: require("../assets/img/portfolio/messages.jpg"),
                 },
                 {
                     src: require("../assets/img/portfolio/spurs-selfie-station-example.jpg"),
@@ -231,7 +247,7 @@ import Calculator from './Calculator.vue';
             index: null,
         };
     },
-    components: { Calculator }
+    components: { Calculator, Type, Guess }
 };
 </script>
 
